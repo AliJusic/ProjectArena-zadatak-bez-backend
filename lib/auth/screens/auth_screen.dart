@@ -1,8 +1,8 @@
-import "package:flutter/material.dart";
+import 'package:flutter/material.dart';
+import 'package:passwordfield/passwordfield.dart';
 
 import '../../common/widgets/custom_button.dart';
 import '../../common/widgets/custom_textfield.dart';
-import 'package:passwordfield/passwordfield.dart';
 import '../services/auth_service.dart';
 
 enum Auth { signin }
